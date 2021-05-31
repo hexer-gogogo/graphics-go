@@ -5,7 +5,7 @@
 package graphics
 
 import (
-	"github.com/BurntSushi/graphics-go/graphics/interp"
+	"github.com/hexu0614/graphics-go/graphics/interp"
 	"errors"
 	"image"
 	"image/draw"
